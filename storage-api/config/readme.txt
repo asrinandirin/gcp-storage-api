@@ -1,0 +1,1 @@
+Bind this folder to the container as a volume to the path /var/
